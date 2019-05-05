@@ -1,0 +1,120 @@
+PODS:
+  - Action (3.11.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - Differentiator (3.1.0)
+  - iOSSnapshotTestCase (6.0.3):
+    - iOSSnapshotTestCase/SwiftSupport (= 6.0.3)
+  - iOSSnapshotTestCase/Core (6.0.3)
+  - iOSSnapshotTestCase/SwiftSupport (6.0.3):
+    - iOSSnapshotTestCase/Core
+  - Nimble (8.0.1)
+  - Nimble-Snapshots (7.0.0):
+    - Nimble-Snapshots/Core (= 7.0.0)
+  - Nimble-Snapshots/Core (7.0.0):
+    - iOSSnapshotTestCase (~> 6.0)
+    - Nimble (~> 8.0)
+  - "NSObject+Rx (4.4.1)":
+    - RxSwift (~> 4.3)
+  - PKHUD (5.2.1)
+  - Quick (2.1.0)
+  - Realm (3.14.2):
+    - Realm/Headers (= 3.14.2)
+  - Realm/Headers (3.14.2)
+  - RealmSwift (3.14.2):
+    - Realm (= 3.14.2)
+  - RxBlocking (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxRealm (0.7.6):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - RxTest (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - SwiftDate (6.0.2)
+  - SwiftGen (6.1.0)
+  - SwiftLint (0.32.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Action
+  - Alamofire
+  - AlamofireImage
+  - Nimble
+  - Nimble-Snapshots
+  - "NSObject+Rx"
+  - PKHUD
+  - Quick
+  - RealmSwift
+  - RxBlocking
+  - RxCocoa
+  - RxDataSources
+  - RxRealm
+  - RxSwift
+  - RxTest
+  - SwiftDate
+  - SwiftGen
+  - SwiftLint
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Action
+    - Alamofire
+    - AlamofireImage
+    - Differentiator
+    - iOSSnapshotTestCase
+    - Nimble
+    - Nimble-Snapshots
+    - "NSObject+Rx"
+    - PKHUD
+    - Quick
+    - Realm
+    - RealmSwift
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxRealm
+    - RxSwift
+    - RxTest
+    - SwiftDate
+    - SwiftGen
+    - SwiftLint
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Action: 689181e4c3f6566844178d8a7da6fef39a9597fc
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  iOSSnapshotTestCase: 944a73f6d9676302811a86c0cf35f0e6ef5ab2a0
+  Nimble: 45f786ae66faa9a709624227fae502db55a8bdd0
+  Nimble-Snapshots: 2d6d712ceb2d1850d88f850fbd7c732618106022
+  "NSObject+Rx": 9884a92f19b610795c431e10b4e601913b59c9e9
+  PKHUD: 4e6162c4c39ac367c6934e9855c6b4762ee16256
+  Quick: 4be43f6634acfa727dd106bdf3929ce125ffa79d
+  Realm: 179c6706e3a49dbfe112e572fd3c03d3169bea35
+  RealmSwift: 1797f272fb51c555b764fada32e82159a2c65247
+  RxBlocking: 79413e4d916f44bb3e113c5b2cc059e36fe58910
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxRealm: 5379eddd74f8d617ca7681d1f8d144af25b432b0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxTest: 3ccb66bfbace0bf7df1c43a7c75d046f8ce60372
+  SwiftDate: bbed9b23bfec599bd62b9a305afc554f7bd0eb6f
+  SwiftGen: f872ca75cbd17bf7103c17f13dcfa0d9a15667b0
+  SwiftLint: 009a898ef2a1c851f45e1b59349bf6ff2ddc990d
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 7bad0605fc6b1dc7559e7aa3b28e5bb72e427258
+
+COCOAPODS: 1.6.0.beta.2
